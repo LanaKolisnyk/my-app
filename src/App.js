@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Form from 'react-bootstrap/Form';
+
 
 function App() {
   return (
@@ -83,13 +85,13 @@ function App() {
         >
           open-sourced on GitHub
         </a> 
-        and 
+        {" "}and{" "}
         <a
           href="https://glowing-salmiakki-cd3414.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-         hosted on Netlify
+        {" "}hosted on Netlify
         </a>
       </footer>
     </div>
