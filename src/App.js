@@ -79,7 +79,7 @@ function App() {
 
       <footer>
         This project was coded by Lana Kolisnyk and is         <a
-          href="https://github.com/LanaKolisnyk/Vanilla-weather-app"
+          href="hhttps://github.com/LanaKolisnyk/my-app"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -87,7 +87,7 @@ function App() {
         </a> 
         {" "}and{" "}
         <a
-          href="https://glowing-salmiakki-cd3414.netlify.app/"
+          href="https://master--glowing-gelato-532b3d.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
