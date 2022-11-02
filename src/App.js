@@ -79,7 +79,7 @@ function App() {
 
       <footer>
         This project was coded by Lana Kolisnyk and is         <a
-          href="hhttps://github.com/LanaKolisnyk/my-app"
+          href="https://github.com/LanaKolisnyk/my-app"
           target="_blank"
           rel="noopener noreferrer"
         >
